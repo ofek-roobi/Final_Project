@@ -25,5 +25,5 @@
 * **שפת פיתוח:** Python 3
 * **מסד נתונים:** SQLite
 * **בינה מלאכותית:** Ollama (Mistral model)
-* **ספריות חיצוניות:** `tabulate`, `ollama
+* **ספריות חיצוניות:** `tabulate`, `ollama`
 
