@@ -14,7 +14,7 @@
 הפרויקט נבנה תוך הקפדה יתרה על עקרונות OOP: 
 * ארכיטקטורת **MVC** (Model-View-Controller) 
 * הפרדת דאגות (**SoC**)
-* ועקרונות לכידות וצימוד.
+* עקרונות לכידות וצימוד
 
 🤖 **פיצ'ר ייחודי:**
 המערכת כוללת **עוזר AI חכם** המבוסס על מודל שפה מקומי (Ollama/Mistral). העוזר יודע לשלוף נתונים מתוך מסד הנתונים בזמן אמת, ולענות על שאלות ניהוליות של בעל הסטודיו - הכל בצורה מאובטחת וללא תלות בשירותי ענן חיצוניים.
@@ -26,6 +26,4 @@
 * **מסד נתונים:** SQLite
 * **בינה מלאכותית:** Ollama (Mistral model)
 * **ספריות חיצוניות:** `tabulate`, `ollama
-*
-*
-* `
+
